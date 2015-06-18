@@ -1,7 +1,7 @@
 Giraffe
 ================================================================================
 
-A broken webapp to teach intro web security.
+A broken web application to teach intro web security.
 
 Setup
 ================================================================================
